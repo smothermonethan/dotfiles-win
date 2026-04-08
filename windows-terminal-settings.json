@@ -66,10 +66,10 @@
     "schemes": 
     [
         {
-            "background": "#1A1A1A",
-            "black": "#121212",
+            "background": "#0F0F0F",
+            "black": "#000000",
             "blue": "#2B4FFF",
-            "brightBlack": "#666666",
+            "brightBlack": "#2F2F2F",
             "brightBlue": "#5C78FF",
             "brightCyan": "#5AC8FF",
             "brightGreen": "#905AFF",
@@ -81,7 +81,7 @@
             "cyan": "#28B9FF",
             "foreground": "#F1F1F1",
             "green": "#7129FF",
-            "name": "xcad",
+            "name": "xcad_tdl",
             "purple": "#2883FF",
             "red": "#A52AFF",
             "selectionBackground": "#FFFFFF",
