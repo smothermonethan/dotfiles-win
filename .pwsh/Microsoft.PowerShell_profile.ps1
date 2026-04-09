@@ -38,7 +38,7 @@ function kn {
     }
 }
 
-$ENV:STARSHIP_CONFIG = "$HOME\.starship\starship.toml"
+$ENV:STARSHIP_CONFIG = "C:\Users\ethan\Downloads\starship.toml"
 $ENV:STARSHIP_DISTRO = "者 xcad"
 Invoke-Expression (&starship init powershell)
 
